@@ -1,0 +1,1 @@
+export {default as RequireActivated} from './require-activated.svelte'
